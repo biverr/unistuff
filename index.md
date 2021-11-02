@@ -7,7 +7,13 @@ Her finder du informationer omkring mig, mit CV, minesemesterprojekter og andet!
 
 ### Semesterprojekter
 
-### [Instagram](https://www.instagram.com/bivermedv/)
+### Socials
+- [Instagram](https://www.instagram.com/bivermedv/)
+- [Facebook](https://www.facebook.com/emil.christiansen.98/)
+- [LinkedIn](https://www.linkedin.com/in/emilchristiansensiv/)
+### Kontakt
+- Email: elc77@live.dk / elch19@student.aau.dk
+- Mobil: +4541829297
 
 # Header 1
 ## Header 2
