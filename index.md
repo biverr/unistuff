@@ -1,21 +1,21 @@
-## Velkommen til min hjemmeside!
+# Velkommen til min hjemmeside!
 
-Her finder du informationer omkring mig, mit CV, minesemesterprojekter og andet!
+### Her finder du informationer omkring mig, mit CV, minesemesterprojekter og andet!
 
 
-### CV
+## CV
 
 ### Semesterprojekter
-# Pepsi commercial
-# Gillette commercial
+### Pepsi commercial
+### Gillette commercial
 
-### Socials
+## Socials
 - [Instagram](https://www.instagram.com/bivermedv/)
 - [Facebook](https://www.facebook.com/emil.christiansen.98/)
 - [LinkedIn](https://www.linkedin.com/in/emilchristiansensiv/)
 
 
-### Kontakt
+## Kontakt
 - Email: elc77@live.dk / elch19@student.aau.dk
 - Mobil: +4541829297
 
