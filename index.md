@@ -2,15 +2,12 @@
 
 Her finder du informationer omkring mig, mit CV, minesemesterprojekter og andet!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ### CV
 
 ### Semesterprojekter
 
-### Socials
+### [Instagram](https://www.instagram.com/bivermedv/)
 
 # Header 1
 ## Header 2
